@@ -17,6 +17,7 @@ Use of objects, loops, and if statements.
 Application of arrays
 Use of functions
 Use of queryselectors
+
 Use of Math.random
 Use of Math.floor
 Applying queryselectors to retrieve information
@@ -25,8 +26,11 @@ Use of event listeners
 
 ## The following image demonstrates the application functionality:
 
-image.png
-image.png
+![C67C008E-408C-4381-ADD9-1D37D8E78626](https://user-images.githubusercontent.com/112995643/206886327-3e80175a-f984-4d6e-ac1f-700c2f2042a1.jpeg)
+
+![7616BFAB-3241-45C4-954B-7E01B9FDDDE7](https://user-images.githubusercontent.com/112995643/206886344-10f5d970-dfcc-4f42-a6c7-78e65cca3083.jpeg)
+
+![17A4BA28-80BD-4A90-B1FC-1458FFCDEC9B](https://user-images.githubusercontent.com/112995643/206886348-d9910b64-a1b8-41a7-aa67-daed5f19c6b3.jpeg)
 
 Deployed Application:
 
