@@ -34,4 +34,4 @@ Use of event listeners
 
 Deployed Application:
 
-Github Repository:
+Github Repository: https://github.com/mia2380/Ballemand-JS-password-generator.git
